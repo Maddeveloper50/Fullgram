@@ -6,7 +6,7 @@ This repo contains the official source code for [Telegram App for Android](https
 ##Creating your Telegram Application
 
 We welcome all developers to use our API and source code to create applications on our platform.
-There are several things we require from **all developers** for the moment.
+There are severa3l things we require from **all developers** for the moment.
 
 1. [**Obtain your own api_id**](https://core.telegram.org/api/obtaining_api_id) for your application.
 2. Please **do not** use the name Telegram for your app — or make sure your users understand that it is unofficial.
@@ -31,4 +31,4 @@ Import the root folder into your IDE (tested on Android Studio), then run projec
 
 We moved all translations to https://www.transifex.com/projects/p/telegram/. Please use it.
 "# telehamekare" 
-# WeGram
+# Fullgram
